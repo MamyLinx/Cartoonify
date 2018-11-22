@@ -1,0 +1,5 @@
+[{
+  "file": "/home/mamy/Workspace/opencv/test/main.cpp",
+  "directory": "/home/mamy/Workspace/opencv/test",
+  "command": "/usr/bin/g++  -c /home/mamy/Workspace/opencv/test/main.cpp -o /home/mamy/Workspace/opencv/test/main.cpp.o  -g  -O0  -Wall -I. -I."
+ }]
